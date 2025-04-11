@@ -4,7 +4,7 @@ import openai
 import os
 
 # Initialize OpenAI API with your key
-openai.api_key = 'YOUR-API-KEY'
+openai.api_key = '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'
 
 ROOT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 
